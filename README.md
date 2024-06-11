@@ -1,2 +1,3 @@
-# Seguimiento-Academico-Online
-Desarrollada con HTML, CSS, JavaScript, PHP y MySQL, Seguimiento Académico Online es una pagina web que permite a los profesores registrar asignaturas, tomar asistencia y acceder a estadísticas generales de los alumnos. Una solución web eficiente para la gestión académica.
+# Seguimiento Académico Online
+## _Área: Proyectos_
+La plataforma "Seguimiento Académico Online" facilita a los profesores llevar un registro de asistencia de sus alumnos a lo largo del año escolar.
