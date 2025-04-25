@@ -30,7 +30,7 @@ Además, los profesores pueden gestionar su perfil y buscar expedientes de alumn
 
 En resumen, **"Seguimiento Académico Online"** ofrece una solución integral para la gestión de la asistencia y mejora la experiencia educativa en el aula.
 
-**Consulta la versión preliminar del proyecto aquí:** [https://seguimiento-academico-online.com](https://www.alejandrovillegas.net/projects/project-02/index.php)
+**Consulta la versión preliminar del proyecto aquí:** [https://seguimiento-academico-online.com](https://www.alejandrovillegas.dev/projects/project-02/index.php)
 
 # 📌 Información del Proyecto
 
@@ -42,7 +42,7 @@ Este proyecto ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 25 de enero de 2024
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración del Proyecto
 
