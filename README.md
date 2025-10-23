@@ -40,7 +40,7 @@ Este proyecto ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Usuario Final**: Autodidactas y Desarrolladores
 
-- **Fecha de Desarrollo**: 25 de enero de 2024
+- **Fecha de Desarrollo**: 12 de julio de 2023
 
 - **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
